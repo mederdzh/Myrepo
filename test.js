@@ -1,6 +1,6 @@
 let word = 0
 function hello() {
 
-    console.log("hello world");
+    console.log("JavaScript is awesome!");
 }
 hello()
